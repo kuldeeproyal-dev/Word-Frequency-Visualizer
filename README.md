@@ -1,12 +1,4 @@
 # Word-Frequency-Visualizer
-Here's a sample `README.md` for a **Word Frequency Visualizer** project. This assumes the tool analyzes a text (or multiple texts), computes word frequencies, and visualizes the results (e.g. with a bar chart, word cloud, etc.).
-
-You can modify the sections as needed based on your specific implementation.
-
----
-
-# 📊 Word Frequency Visualizer
-
 A simple and interactive tool to analyze and visualize word frequencies from text input. Supports text files, copy-paste input, and real-time visualizations like bar charts and word clouds.
 
 ## 🚀 Features
